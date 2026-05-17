@@ -1,0 +1,3231 @@
+{
+  "המכשף": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "gritty",
+      "philosophical",
+      "suspenseful",
+      "tense"
+    ]
+  },
+  "מיינד האנטר": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "philosophical"
+    ]
+  },
+  "בעיית שלושת הגופים": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "philosophical",
+      "suspenseful",
+      "inspiring",
+      "tense"
+    ]
+  },
+  "הנוסעים בזמן": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "philosophical",
+      "suspenseful"
+    ]
+  },
+  "תישאר קרוב": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "החיה שבתוכי": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "אפל": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "האהבה היא עיוורת": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "romantic",
+      "suspenseful",
+      "humorous"
+    ]
+  },
+  "נפילת בית אשר": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful"
+    ]
+  },
+  "חינוך מיני": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "philosophical"
+    ]
+  },
+  "‎1899‎": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "הרפתקאותיה המצמררות של סברינה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "dark",
+      "whimsical",
+      "disturbing"
+    ]
+  },
+  "מורשת יופיטר": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "philosophical",
+      "tense",
+      "nostalgic"
+    ]
+  },
+  "מחלקה Q": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "gritty",
+      "suspenseful",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "ילדה יקרה": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "איזה בלגן השארת": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty",
+      "tense"
+    ]
+  },
+  "מטורף": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "disturbing",
+      "humorous",
+      "philosophical",
+      "suspenseful"
+    ]
+  },
+  "יוסמיטי": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "דברים מוזרים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "nostalgic",
+      "gritty"
+    ]
+  },
+  "המתנקשים": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "הצופה": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "להקה, על עיוור": {
+    "pacing": 3,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "inspiring",
+      "humorous",
+      "romantic"
+    ]
+  },
+  "לא ייאמן": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty",
+      "inspiring"
+    ]
+  },
+  "דקמרון": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "humorous",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "השבטים": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "philosophical",
+      "disturbing"
+    ]
+  },
+  "אַייל קטן": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "הרלן קובן": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "דאהמר": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "disturbing",
+      "gritty",
+      "suspenseful",
+      "tense"
+    ]
+  },
+  "המעון": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "humorous",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "אף אחד לא ראה שעזבנו": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "nostalgic",
+      "gritty"
+    ]
+  },
+  "תיקון מידות": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "ארכיון 81": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense",
+      "nostalgic"
+    ]
+  },
+  "פחמן משודרג": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "philosophical",
+      "disturbing"
+    ]
+  },
+  "הזדמנות חוזרת": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "ונסדיי": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "suspenseful",
+      "gritty",
+      "tense"
+    ]
+  },
+  "ברוכים הבאים לעדן": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "אב לאלף": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "המורדת": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "romantic",
+      "gritty"
+    ]
+  },
+  "אסונטה": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "התבגרות": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "טובים מאיתנו": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "להפוך אדם לרוצח": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "האישה מהבית שממול לבחורה בחלון": {
+    "pacing": 2,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "לוציפר": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "humorous",
+      "philosophical",
+      "romantic"
+    ]
+  },
+  "משפחת אוקטובר": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "שכר ועונש": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "עולם חדש": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "philosophical",
+      "disturbing",
+      "tense",
+      "romantic"
+    ]
+  },
+  "גמביט המלכה": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "gritty",
+      "inspiring",
+      "nostalgic",
+      "philosophical"
+    ]
+  },
+  "כל האור שאיננו רואים": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "romantic",
+      "gritty"
+    ]
+  },
+  "משפחה כמעט נורמלית": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "קליקבייט": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "סנס8": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "philosophical",
+      "romantic",
+      "suspenseful"
+    ]
+  },
+  "איש הניסים": {
+    "pacing": 2,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "philosophical",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "מראה שחורה": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "disturbing",
+      "philosophical",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "פיין גאפ": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 3,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "התאמה מושלמת": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "romantic",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "The OA": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical",
+      "tense"
+    ]
+  },
+  "הגופה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "החוטאים": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "סנדמן": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 1,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "המפלצת מפירנצה": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "disturbing",
+      "suspenseful"
+    ]
+  },
+  "ציידי הצללים": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 1,
+    "tone_tags": [
+      "suspenseful",
+      "romantic",
+      "gritty"
+    ]
+  },
+  "מגוף לגוף": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "tense",
+      "gritty"
+    ]
+  },
+  "החץ": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "gritty",
+      "suspenseful",
+      "tense"
+    ]
+  },
+  "הדהודים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "נקמה סמויה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "גאון מרושע": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "האיש השנוא ביותר באינטרנט": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "gritty",
+      "inspiring",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "בשבילי אתם מתים": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "gritty",
+      "suspenseful",
+      "philosophical"
+    ]
+  },
+  "פרויד": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "נזירה לוחמת": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 1,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "אדם זר": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "הליקס": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "הרחק": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "inspiring",
+      "philosophical"
+    ]
+  },
+  "המפתחות של משפחת לוק": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "אלי": {
+    "pacing": 5,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "whimsical"
+    ]
+  },
+  "איי זומבי": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "humorous",
+      "gritty"
+    ]
+  },
+  "מי את, ארין קרטר?": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "דפ נגד הרד": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "גליץ'": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical",
+      "tense"
+    ]
+  },
+  "הקיסרית": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "romantic",
+      "nostalgic",
+      "philosophical"
+    ]
+  },
+  "ראגנארוק": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "gritty",
+      "tense"
+    ]
+  },
+  "המושיעים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "ביו-האקרים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "התמימים": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "השורד המיועד": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "philosophical",
+      "suspenseful",
+      "inspiring"
+    ]
+  },
+  "אבינו": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "מה עשתה ג'ניפר": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty",
+      "tense"
+    ]
+  },
+  "ריברדייל": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "romantic",
+      "melodramatic"
+    ]
+  },
+  "מעירים דובים מרבצם": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "בונדינג": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "gritty",
+      "romantic"
+    ]
+  },
+  "זה מה שחסר לי עכשיו": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "tense",
+      "nostalgic"
+    ]
+  },
+  "אל תוך הלילה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "אווטאר": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "inspiring",
+      "philosophical",
+      "romantic",
+      "humorous"
+    ]
+  },
+  "משחק הדיונון": {
+    "pacing": 5,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "אורפן בלאק": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "שיחות עם רוצח": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "אבסנטיה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "אמת או חובה": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 1,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "inspiring"
+    ]
+  },
+  "רעבים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "humorous",
+      "disturbing"
+    ]
+  },
+  "ברידג'רטון": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 3,
+    "tone_tags": [
+      "romantic",
+      "nostalgic",
+      "humorous"
+    ]
+  },
+  "חטיפה בשמיים": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 3,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "nostalgic"
+    ]
+  },
+  "סוכן הלילה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "סוויט טות'": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 1,
+    "tone_tags": [
+      "whimsical",
+      "heartfelt",
+      "gritty",
+      "inspiring"
+    ]
+  },
+  "הגשם": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "רצח אמריקאי": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 3,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "החפרפרת": {
+    "pacing": 2,
+    "darkness": 1,
+    "complexity": 1,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 2,
+    "tone_tags": [
+      "whimsical",
+      "humorous",
+      "nostalgic"
+    ]
+  },
+  "חם, לוהט, רותח!": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "tense"
+    ]
+  },
+  "הערפל": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "להשאיר את העולם מאחור": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "humorous",
+      "inspiring",
+      "gritty"
+    ]
+  },
+  "Heart of Stone": {
+    "pacing": 2,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 2,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "philosophical",
+      "nostalgic",
+      "inspiring"
+    ]
+  },
+  "העולם שאחרי": {
+    "pacing": 2,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "disturbing",
+      "philosophical",
+      "suspenseful"
+    ]
+  },
+  "תמיד מכשפה": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "romantic",
+      "suspenseful",
+      "whimsical"
+    ]
+  },
+  "אקדמיית המטרייה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "whimsical",
+      "suspenseful",
+      "philosophical",
+      "humorous"
+    ]
+  },
+  "סדק": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "מגע": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "inspiring",
+      "philosophical"
+    ]
+  },
+  "עוגה או לא עוגה?": {
+    "pacing": 4,
+    "darkness": 1,
+    "complexity": 3,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "whimsical",
+      "inspiring"
+    ]
+  },
+  "אוסמוסיס": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "philosophical",
+      "romantic",
+      "disturbing",
+      "suspenseful"
+    ]
+  },
+  "קסנדרה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "נפשות תאומות": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "romantic",
+      "philosophical",
+      "suspenseful"
+    ]
+  },
+  "פריצה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "הג'נטלמנים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "gritty",
+      "tense"
+    ]
+  },
+  "איוואן האיום": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "בובה רוסית": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "philosophical",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "נמלטים": {
+    "pacing": 5,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "tense"
+    ]
+  },
+  "מי מכיר אותך?": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "משחקים גרייסי דרלינג": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense",
+      "nostalgic"
+    ]
+  },
+  "האי השחור": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "romantic"
+    ]
+  },
+  "גלאדבק": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "גורד שחקים": {
+    "pacing": 2,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "philosophical",
+      "nostalgic",
+      "romantic"
+    ]
+  },
+  "365 ימים": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 1,
+    "tone_tags": [
+      "humorous",
+      "tense",
+      "inspiring"
+    ]
+  },
+  "קצה העולם": {
+    "pacing": 1,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "nostalgic",
+      "philosophical",
+      "romantic"
+    ]
+  },
+  "המצוד": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "המשרד": {
+    "pacing": 2,
+    "darkness": 3,
+    "complexity": 2,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "gritty"
+    ]
+  },
+  "100 בני אדם": {
+    "pacing": 3,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "philosophical",
+      "humorous",
+      "inspiring"
+    ]
+  },
+  "שובר שורות": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 5,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "philosophical"
+    ]
+  },
+  "נוכל הטינדר": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "פארק היורה": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "nostalgic",
+      "tense"
+    ]
+  },
+  "אמא או אנדרואידים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "משפט השטן": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "disturbing",
+      "suspenseful",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "פרומתיאוס": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "עולם הזמן": {
+    "pacing": 5,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "הוליווד": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 1,
+    "tone_tags": [
+      "romantic",
+      "suspenseful",
+      "inspiring",
+      "whimsical"
+    ]
+  },
+  "זרה": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "romantic",
+      "suspenseful",
+      "gritty",
+      "tense"
+    ]
+  },
+  "קמים לתחייה": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "nostalgic"
+    ]
+  },
+  "‎3%‎": {
+    "pacing": 3,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "whimsical",
+      "inspiring"
+    ]
+  },
+  "הסיגנל": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "12 קופים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "מניפסט": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "inspiring",
+      "tense",
+      "philosophical"
+    ]
+  },
+  "הגנן": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing",
+      "romantic"
+    ]
+  },
+  "מבוא להיסטוריה": {
+    "pacing": 5,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 5,
+    "tone_tags": [
+      "inspiring",
+      "nostalgic",
+      "philosophical"
+    ]
+  },
+  "המלך קוברה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "gritty",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "הפיר 2": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "הגל החמישי": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "אקס מכינה": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 5,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "philosophical",
+      "suspenseful",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "אני, אימא": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical",
+      "tense"
+    ]
+  },
+  "סיזיפוס": {
+    "pacing": 2,
+    "darkness": 2,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 2,
+    "tone_tags": [
+      "whimsical",
+      "inspiring"
+    ]
+  },
+  "פרויקט פאוור": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "פרויקט אדם": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 3,
+    "realism": 1,
+    "tone_tags": [
+      "humorous",
+      "whimsical",
+      "inspiring"
+    ]
+  },
+  "סימן חיים": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "nostalgic"
+    ]
+  },
+  "נתראה אתמול": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "קופסת הציפורים": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 3,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "מינימליזם עכשיו": {
+    "pacing": 2,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 5,
+    "tone_tags": [
+      "inspiring",
+      "philosophical"
+    ]
+  },
+  "מלך השיבוטים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty"
+    ]
+  },
+  "לחיים ולמוות": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "זיכרון מלאכותי": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "philosophical",
+      "disturbing"
+    ]
+  },
+  "כופר נפשה": {
+    "pacing": 2,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "חורים שחורים": {
+    "pacing": 2,
+    "darkness": 2,
+    "complexity": 5,
+    "emotional_intensity": 3,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "philosophical",
+      "inspiring",
+      "suspenseful"
+    ]
+  },
+  "זמן שאול": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "ונום": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "זמן קטוע": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "whimsical"
+    ]
+  },
+  "שבעה חטאים": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "philosophical",
+      "gritty"
+    ]
+  },
+  "הנערה שבתמונה": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty",
+      "tense"
+    ]
+  },
+  "הרוע שבפנים": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "הבלש פורסט": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "gritty",
+      "suspenseful",
+      "philosophical"
+    ]
+  },
+  "ויקינגים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 3,
+    "tone_tags": [
+      "gritty",
+      "suspenseful",
+      "inspiring"
+    ]
+  },
+  "מי מתגורר בבית היל": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "nostalgic",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "ללא גבולות": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "romantic",
+      "gritty"
+    ]
+  },
+  "המשובשים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "tense"
+    ]
+  },
+  "בית הנייר": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "הסודות של קורון": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "זאב צעיר": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "humorous",
+      "romantic",
+      "suspenseful"
+    ]
+  },
+  "תולדות השנארה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 1,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "inspiring"
+    ]
+  },
+  "אוזרק": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "סוף הפאקינג עולם": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "disturbing",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "אבודים בחלל": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "tense",
+      "philosophical"
+    ]
+  },
+  "וייקו": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "disturbing",
+      "suspenseful"
+    ]
+  },
+  "אתגר הדיונון": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 2,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "כנופיית ברמינגהם": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "disturbing"
+    ]
+  },
+  "חדרים אפלים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "הפלא": {
+    "pacing": 3,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 2,
+    "mystery_level": 2,
+    "realism": 1,
+    "tone_tags": [
+      "humorous",
+      "whimsical",
+      "nostalgic"
+    ]
+  },
+  "אני רוצח": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 5,
+    "tone_tags": [
+      "disturbing",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "מפלצת": {
+    "pacing": 2,
+    "darkness": 5,
+    "complexity": 5,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "philosophical",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "עוגה או לא עוגה? מהדורת חג": {
+    "pacing": 4,
+    "darkness": 1,
+    "complexity": 3,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 3,
+    "tone_tags": [
+      "whimsical",
+      "humorous",
+      "inspiring"
+    ]
+  },
+  "השטן באוהיו": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "disturbing",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "הזיווג המושלם": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "whimsical"
+    ]
+  },
+  "מוגנים": {
+    "pacing": 2,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "disturbing",
+      "tense"
+    ]
+  },
+  "ים השלווה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "מבפנים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "philosophical",
+      "tense"
+    ]
+  },
+  "זמן הזבובים": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "gritty",
+      "tense",
+      "humorous",
+      "suspenseful"
+    ]
+  },
+  "בן ערובה": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "מחתרת השישה": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "humorous",
+      "gritty"
+    ]
+  },
+  "האדם נגד התינוק": {
+    "pacing": 4,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 2,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "whimsical",
+      "inspiring"
+    ]
+  },
+  "עולמות חוצניים": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 4,
+    "emotional_intensity": 2,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "philosophical",
+      "inspiring",
+      "whimsical"
+    ]
+  },
+  "מפלצות": {
+    "pacing": 3,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "whimsical",
+      "nostalgic"
+    ]
+  },
+  "ראל": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "disturbing",
+      "gritty",
+      "philosophical"
+    ]
+  },
+  "100": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "inspiring",
+      "philosophical",
+      "suspenseful"
+    ]
+  },
+  "נייטפלייר": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "disturbing",
+      "philosophical"
+    ]
+  },
+  "טאו": {
+    "pacing": 2,
+    "darkness": 1,
+    "complexity": 1,
+    "emotional_intensity": 2,
+    "mystery_level": 1,
+    "realism": 2,
+    "tone_tags": [
+      "whimsical",
+      "nostalgic",
+      "humorous"
+    ]
+  },
+  "הבושם": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 2,
+    "tone_tags": [
+      "disturbing",
+      "suspenseful",
+      "tense"
+    ]
+  },
+  "הרופא הטוב": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "inspiring",
+      "humorous"
+    ]
+  },
+  "שלו ושלה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "יחידה 42": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "אקווינוקס": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 3,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "tense",
+      "gritty"
+    ]
+  },
+  "הניצולים": {
+    "pacing": 2,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "nostalgic",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "סיפורי ריגול": {
+    "pacing": 3,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 3,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "gritty",
+      "tense",
+      "suspenseful"
+    ]
+  },
+  "שאלת מיליון הדולר": {
+    "pacing": 4,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 4,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "humorous"
+    ]
+  },
+  "אל הלא נודע": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "whimsical"
+    ]
+  },
+  "הדינוזאורים": {
+    "pacing": 3,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 2,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "philosophical",
+      "inspiring",
+      "gritty"
+    ]
+  },
+  "איש הערמונים": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty",
+      "tense"
+    ]
+  },
+  "חלום של בית": {
+    "pacing": 4,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 4,
+    "tone_tags": [
+      "inspiring",
+      "humorous",
+      "whimsical"
+    ]
+  },
+  "המדריך לרוצח": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "tense",
+      "gritty",
+      "disturbing"
+    ]
+  },
+  "נרו": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 3,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "היונים השחורות": {
+    "pacing": 5,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "הנחש": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 1,
+    "tone_tags": [
+      "romantic",
+      "whimsical",
+      "tense"
+    ]
+  },
+  "Control Z": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 5,
+    "realism": 4,
+    "tone_tags": [
+      "suspenseful",
+      "gritty",
+      "tense",
+      "disturbing"
+    ]
+  },
+  "קטן עלינו": {
+    "pacing": 4,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 4,
+    "tone_tags": [
+      "inspiring",
+      "whimsical",
+      "humorous"
+    ]
+  },
+  "היעלמותה של מדלן מקאן": {
+    "pacing": 3,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 5,
+    "realism": 5,
+    "tone_tags": [
+      "suspenseful",
+      "disturbing",
+      "gritty",
+      "tense"
+    ]
+  },
+  "רובוטים": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 2,
+    "tone_tags": [
+      "disturbing",
+      "humorous",
+      "gritty",
+      "suspenseful"
+    ]
+  },
+  "להמציא את אנה": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "suspenseful",
+      "gritty"
+    ]
+  },
+  "האחות": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 3,
+    "realism": 5,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "humorous",
+      "disturbing"
+    ]
+  },
+  "רכבת הקרח": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "philosophical",
+      "suspenseful"
+    ]
+  },
+  "ספרטקוס": {
+    "pacing": 4,
+    "darkness": 5,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 2,
+    "realism": 4,
+    "tone_tags": [
+      "gritty",
+      "tense",
+      "inspiring",
+      "disturbing"
+    ]
+  },
+  "מסע בין כוכבים": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 4,
+    "realism": 2,
+    "tone_tags": [
+      "philosophical",
+      "inspiring",
+      "humorous",
+      "suspenseful"
+    ]
+  },
+  "The Circle‎ ‏- ארה\"ב": {
+    "pacing": 4,
+    "darkness": 3,
+    "complexity": 3,
+    "emotional_intensity": 3,
+    "mystery_level": 4,
+    "realism": 4,
+    "tone_tags": [
+      "tense",
+      "humorous",
+      "suspenseful"
+    ]
+  },
+  "שלדון הצעיר": {
+    "pacing": 3,
+    "darkness": 2,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 4,
+    "tone_tags": [
+      "humorous",
+      "nostalgic",
+      "inspiring"
+    ]
+  },
+  "ג'יני וג'ורג'יה": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 4,
+    "emotional_intensity": 5,
+    "mystery_level": 3,
+    "realism": 4,
+    "tone_tags": [
+      "gritty",
+      "humorous",
+      "tense",
+      "romantic"
+    ]
+  },
+  "חברים": {
+    "pacing": 3,
+    "darkness": 1,
+    "complexity": 2,
+    "emotional_intensity": 3,
+    "mystery_level": 1,
+    "realism": 3,
+    "tone_tags": [
+      "humorous",
+      "romantic",
+      "inspiring",
+      "nostalgic"
+    ]
+  },
+  "ואן הלסינג": {
+    "pacing": 4,
+    "darkness": 4,
+    "complexity": 3,
+    "emotional_intensity": 4,
+    "mystery_level": 4,
+    "realism": 1,
+    "tone_tags": [
+      "tense",
+      "gritty",
+      "suspenseful",
+      "inspiring"
+    ]
+  }
+}

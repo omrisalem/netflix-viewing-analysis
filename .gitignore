@@ -1,0 +1,28 @@
+# Personal Netflix data
+ViewingActivity.csv
+Ratings.csv
+
+# Derived data files
+TMDB_data.csv
+merged.csv
+show_df.csv
+time_df.csv
+cluster_df.csv
+powerbi_*.csv
+preference_*.csv
+
+# API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp/backup files
+analysis_copy.ipynb
+analysis.ipynb.backup

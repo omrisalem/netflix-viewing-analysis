@@ -12,6 +12,7 @@ using a combination of classical data science tools, external APIs, and LLMs.
 ├── analysis.ipynb                 # Clean production notebook — runs end-to-end
 ├── thematic_profiles_cache.json   # Cached LLM API responses (avoids re-billing)
 ├── viewing_patterns.png           # Visualization output
+├── images/                        # Power BI dashboard pages (exported)
 ├── viewing_personality_summary.txt # LLM-generated personality portrait (see note in file)
 └── requirements.txt
 
@@ -124,6 +125,25 @@ month, and device. Peak: Friday 18:00–19:00.
 Sent the full numerical profile (engagement stats, top shows, preference vectors,
 cluster breakdown, model findings) to Claude Sonnet for a natural language
 portrait of viewing personality. Output saved in `viewing_personality_summary.txt`.
+
+---
+
+## Power BI Dashboard
+
+A 4-page interactive Power BI report built on the exported analysis tables.
+(The `.pbix` file is not included because it contains my raw viewing history.)
+
+**1. Viewing Behavior**: minutes watched by hour and day of week (heatmap), by year, by day, and by device.
+![Viewing Behavior](images/dashboard_1_viewing_behavior.png)
+
+**2. Show Analysis**: engagement score vs. binge score, and the top 10 shows by engagement.
+![Show Analysis](images/dashboard_2_show_analysis.png)
+
+**3. Taste Profile**: engagement-weighted genre preferences, and the top and bottom 10 keywords.
+![Taste Profile](images/dashboard_3_taste_profile.png)
+
+**4. Clusters**: the 5 K-Means content clusters in PCA space, average engagement per cluster, and the top shows in each cluster.
+![Clusters](images/dashboard_4_clusters.png)
 
 ---
 

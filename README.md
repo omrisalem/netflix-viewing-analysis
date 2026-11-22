@@ -12,7 +12,7 @@ using a combination of classical data science tools, external APIs, and LLMs.
 ├── analysis.ipynb                 # Clean production notebook — runs end-to-end
 ├── thematic_profiles_cache.json   # Cached LLM API responses (avoids re-billing)
 ├── viewing_patterns.png           # Visualization output
-├── viewing_personality_summary.txt # LLM-generated personality portrait
+├── viewing_personality_summary.txt # LLM-generated personality portrait (see note in file)
 └── requirements.txt
 
 > **Note on structure**: This project was developed as a single iterative notebook
@@ -57,7 +57,7 @@ Built behavioral features that don't exist in the raw data:
 
 | Feature | Description |
 |---|---|
-| `engagement_score` | Weighted composite: 40% rating + 30% completion + 20% binge + 10% pace |
+| `engagement_score` | Weighted composite: 40% rating + 30% completion + 20% binge + 10% pace (unrated shows: 50% completion + 30% binge + 20% pace) |
 | `completion_ratio` | Minutes watched / estimated total runtime |
 | `binge_score` | Normalized: max episodes in one day + sustained binge days |
 | `pace_norm` | Average daily episodes, capped at P90 of distribution |
@@ -80,11 +80,12 @@ Results cached in `thematic_profiles_cache.json` to avoid redundant API calls.
 ### 5. Modeling
 Built and compared two model families:
 
-**With behavioral features (validation):**
-→ R² = 0.978 — confirms engagement score is internally consistent,
-but suffers from data leakage (behavioral features directly compose the target)
+**With behavioral features — not a valid result (target leakage):**
+R² = 0.978, but the behavioral features (completion, binge, pace) are the same values
+used to build the engagement score, so the model is partly predicting its own inputs.
+This number only confirms the score is internally consistent; it is not predictive power.
 
-**Content-only features (true prediction, no leakage):**
+**Content-only features (no leakage), 198 shows with completion and thematic data:**
 
 | Model | R² | MAE |
 |---|---|---|
@@ -93,12 +94,15 @@ but suffers from data leakage (behavioral features directly compose the target)
 | Random Forest (29 features) | -0.010 | 0.253 |
 | Cosine Similarity Engine | 0.199 | 0.219 |
 
-Cross-validation R² (Ridge, 5-fold): -153 — confirms overfitting due to small dataset.
+5-fold cross-validation R² (Ridge): −153.6 ± 226.4 with 29 features and −160.8 ± 241.6
+with 6 thematic features. The scores in the table do not hold up under cross-validation,
+so they should not be read as real predictive performance.
 
-**Key finding:** behavioral signals are ~5× stronger predictors than content signals.
-This mirrors findings in production recommendation systems (Netflix, Spotify).
-The low content-only R² is itself a meaningful result: viewing taste has dimensions
-not captured by metadata alone (acting chemistry, mood, personal context).
+**Result:** content metadata (genres, keywords, LLM thematic scores) does not reliably
+predict my engagement on this dataset. The likely reasons are the small sample, the sparse
+explicit ratings (see Limitations), and that taste depends on things metadata doesn't
+capture (acting, mood, personal context). Testing that properly would need data from
+other users.
 
 ### 6. Clustering
 K-Means (K=5, selected via Elbow method) on thematic + genre feature matrix.
@@ -125,7 +129,8 @@ portrait of viewing personality. Output saved in `viewing_personality_summary.tx
 
 ## Key Findings
 
-- **Behavioral > Content**: How you watch predicts preference 5× better than what you watch
+- **Metadata is a weak predictor**: genre, keywords and thematic scores did not reliably
+  predict my engagement; the near-perfect behavioral model was caused by target leakage
 - **Top content cluster**: Dark, complex Sci-Fi & Fantasy with high mystery
 - **Peak viewing**: Friday evenings — deliberate end-of-week decompression pattern
 - **Dominant keywords**: miniseries, thriller, murder, time travel, based on novel
@@ -151,7 +156,11 @@ portrait of viewing personality. Output saved in `viewing_personality_summary.tx
 ## Limitations
 
 - **No first-watch isolation**: Cannot separate first viewing from re-watches
-- **Small dataset**: 246 unique shows limits model generalizability
+- **Small dataset**: 246 unique shows (198 usable for modeling) limits model generalizability
+- **Sparse ratings**: only 42 of the 246 shows have an explicit rating from me; for the
+  other 204 the engagement score is built only from viewing behavior
+- **Target leakage**: behavioral features are part of the engagement score, so they can't be
+  used to predict it
 - **Single user**: No collaborative filtering possible
 - **TMDB coverage**: ~7 shows had no metadata (missing Overview)
 - **Content ceiling**: Low content-only R² reflects that taste is shaped by
